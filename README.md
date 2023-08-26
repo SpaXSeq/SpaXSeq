@@ -10,5 +10,5 @@ install_github("SpaXSeq/SpaXSeq")
 
 # launch the application
 library(SpaXSeq)
-startSpaXSeq()
+SpaXSeq:::startSpaXSeq()
 ```
